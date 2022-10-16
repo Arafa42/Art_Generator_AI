@@ -5,6 +5,8 @@ Used dataset : https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-ti
 
 Results after 1 epoch : 
 
+![](screenshots/whatsapp-clone.PNG)
+
 
 Results after 10 epochs : 
 
