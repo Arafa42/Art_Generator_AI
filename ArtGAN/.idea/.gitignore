@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/input/best-artworks-of-all-time/
+../input/best-artworks-of-all-time/
 /workspace.xml
 # Datasource local storage ignored files
 /dataSources/
