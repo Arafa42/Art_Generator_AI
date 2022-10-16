@@ -6,4 +6,4 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-/ArtGAN/input/best-artworks-of-all-time
+/ArtGAN/input/best-artworks-of-all-time/*
