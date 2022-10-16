@@ -13,21 +13,21 @@ Results after 10 epochs :
 ![](ArtGAN/generated/generated-images-0010.png)
 
 
-Results after 50 epoch : 
+Results after 50 epochs : 
 
 ![](ArtGAN/generated/generated-images-0050.png)
 
 
-Results after 100 epoch : 
+Results after 100 epochs : 
 
 ![](ArtGAN/generated/generated-images-0100.png)
 
 
-Results after 200 epoch : 
+Results after 200 epochs : 
 
 ![](ArtGAN/generated/generated-images-0200.png)
 
 
-Results after 300 epoch : 
+Results after 300 epochs : 
 
 ![](ArtGAN/generated/generated-images-0300.png)
