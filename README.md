@@ -10,24 +10,24 @@ Results after 1 epoch :
 
 Results after 10 epochs :
 
-ArtGAN/generated/generated-images-0010.png
+![](ArtGAN/generated/generated-images-0010.png)
 
 
 Results after 50 epoch : 
 
-ArtGAN/generated/generated-images-0050.png
+![](ArtGAN/generated/generated-images-0050.png)
 
 
 Results after 100 epoch : 
 
-ArtGAN/generated/generated-images-0100.png
+![](ArtGAN/generated/generated-images-0100.png)
 
 
 Results after 200 epoch : 
 
-ArtGAN/generated/generated-images-0200.png
+![](ArtGAN/generated/generated-images-0200.png)
 
 
 Results after 300 epoch : 
 
-ArtGAN/generated/generated-images-0300.png
+![](ArtGAN/generated/generated-images-0300.png)
