@@ -59,8 +59,6 @@ fake_images = generator(xb.cuda())
 print(fake_images.shape)
 
 
-
-
 def train_discriminator(real_images, opt_d):
     # Clear discriminator gradients
     opt_d.zero_grad()
@@ -162,7 +160,6 @@ def fit(epochs, lr, start_idx=1):
         save_samples(epoch + start_idx, fixed_latent, show=False)
 
     return losses_g, losses_d, real_scores, fake_scores
-
 
 lr = 0.0002
 epochs = 300

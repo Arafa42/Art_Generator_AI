@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 
-
 latent_size = 16
 
 discriminator = nn.Sequential(
@@ -27,7 +26,6 @@ discriminator = nn.Sequential(
     nn.Flatten(),
     nn.Sigmoid()
 )
-
 
 generator = nn.Sequential(
     # in: latent_size x 1 x 1
